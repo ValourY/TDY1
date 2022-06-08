@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEEBF731B7C3dd0B720ec7AE89FAcA3CE820A7145",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xEEBF731B7C3dd0B720ec7AE89FAcA3CE820A7145",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RIN",
+    "ID": 4
+  },
+  "NFT_NAME": "TDY",
+  "SYMBOL": "TDY",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://twitter.com",
+  "SHOW_BACKGROUND": true
+}
